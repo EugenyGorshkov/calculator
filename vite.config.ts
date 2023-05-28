@@ -10,4 +10,5 @@ export default defineConfig({
     },
   },
   plugins: [react()],
+  base: 'https://eugenygorshkov.github.io/calculator', 
 })
